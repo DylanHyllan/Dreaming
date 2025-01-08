@@ -1,0 +1,51 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+#top{
+    height: 10vh;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+#homeb{
+    width: 3vw;
+    position: relative;
+    right: 40%;
+    cursor: pointer;
+}
+
+#jung{
+    padding: 0.2%;
+    width: auto;
+    position: relative;
+    right: 2%;
+    font-size: 350%;
+}
+
+#out{
+    display: flex;
+    justify-content: center;
+
+}
+
+#mid{
+    margin-right: 10%;
+
+}
+
+#mids{
+
+}
+
+.inn{
+    width: 20vw;
+}
+
+p{
+
+}
