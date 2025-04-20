@@ -1,7 +1,6 @@
 html, body {
     margin: 0;
     padding: 0;
-    background-color: black;
 }
 
 #top{
@@ -18,7 +17,7 @@ html, body {
     padding: 0.2%;
     width: auto;
     font-size: 50px;
-    margin-right: 500px;
+    margin-right: 25vw;
     cursor: pointer;
 }
 
@@ -27,4 +26,16 @@ html, body {
     padding: 0.2%;
     width: auto;
     font-size: 50px;
+    cursor: pointer;
 }
+
+.carousel-wrapper {
+    max-width: 40vw; 
+    margin: 0 auto;
+  }
+  
+  .carousel-item img {
+    height: auto;
+    object-fit: cover; 
+    width: 100%;   
+  }
