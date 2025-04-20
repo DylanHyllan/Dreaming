@@ -9,20 +9,23 @@ html, body {
     display: flex;
     align-items: center;
     justify-content: center;
+    padding: 0 2vw;
+    box-sizing: border-box;
 
 }
 
 #homeb{
     width: 3vw;
-    position: relative;
-    right: 40%;
     cursor: pointer;
+    min-width: 50px;
+    position: absolute;
+    left: 0;
+    margin-left: 3vw;
 }
 
 #jung{
     padding: 0.2%;
     width: auto;
-    position: relative;
     right: 2%;
     font-size: 350%;
 }
@@ -38,14 +41,11 @@ html, body {
 
 }
 
-#mids{
-
-}
-
 .inn{
     width: 20vw;
 }
 
-p{
+#map{
+    width: 17vw;
 
 }
