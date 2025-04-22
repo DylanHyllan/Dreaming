@@ -32,10 +32,15 @@ html, body {
 .carousel-wrapper {
     max-width: 40vw; 
     margin: 0 auto;
-  }
+}
   
-  .carousel-item img {
-    height: auto;
-    object-fit: cover; 
-    width: 100%;   
-  }
+.carousel-item img {
+height: auto;
+object-fit: cover; 
+width: 100%;   
+}
+
+.iP{
+    width: 35vw;
+    font-size: 1vw;
+}
